@@ -1,0 +1,23 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    curses (1.2.5)
+    hitimes (1.3.0)
+    ncursesw (1.4.10)
+    print_variable (0.0.2)
+    ripper-tags (0.6.1)
+    timers (4.1.2)
+      hitimes
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  curses
+  ncursesw
+  print_variable
+  ripper-tags
+  timers
+
+BUNDLED WITH
+   1.16.6
